@@ -1,0 +1,6 @@
+https://pes.edu https://pes.edu/about
+https://pes.edu https://pes.edu/admissions
+https://pes.edu/about https://pes.edu/faculty
+https://pes.edu/admissions https://pes.edu/contact
+https://pes.edu/faculty https://pes.edu/research
+
